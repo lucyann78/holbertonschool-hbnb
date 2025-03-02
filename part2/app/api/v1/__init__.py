@@ -1,4 +1,5 @@
 # app/api/v1/__init__.py
+from flask_restful import Resource
 from flask_restx import Api, Namespace
 from flask import request
 
