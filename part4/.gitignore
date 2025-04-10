@@ -1,0 +1,15 @@
+# Node modules (si usas Node.js)
+node_modules/
+
+# Archivos de log
+logs/
+*.log
+
+# Archivos de entorno
+.env
+
+# Carpeta de imágenes (si no quieres incluir imágenes temporales)
+images/temp/
+
+# Archivos de caché
+.cache/
