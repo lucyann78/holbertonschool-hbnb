@@ -1,0 +1,24 @@
+{
+  "name": "part4",
+  "version": "1.0.0",
+  "description": "HbNB Part4 Front End",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scripts.js"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lucyann78/holbertonschool-hbnb.git"
+  },
+  "keywords": [
+    "HbNB"
+  ],
+  "author": "Lucy Ann Santiago Lizasoain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucyann78/holbertonschool-hbnb/issues"
+  },
+  "homepage": "https://github.com/lucyann78/holbertonschool-hbnb#readme"
+}
